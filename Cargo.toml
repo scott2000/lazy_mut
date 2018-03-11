@@ -1,0 +1,7 @@
+[package]
+name = "lazy_mut"
+version = "0.1.0"
+authors = ["Scott Taylor <scott11x8@gmail.com>"]
+
+[dependencies]
+libc = "0.2.36"
