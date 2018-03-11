@@ -3,5 +3,9 @@ name = "lazy_mut"
 version = "0.1.0"
 authors = ["Scott Taylor <scott11x8@gmail.com>"]
 
+description = "This crate provides a structure that can be used to lazily initialized values as well as a macro for creating lazy variables."
+keywords = ["lazy", "mut", "static", "init"]
+license = "MIT"
+
 [dependencies]
 libc = "0.2.36"
